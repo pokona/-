@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>我的</title>
+    <style></style>
+  </head>
+  <body style="margin: 0px">
+    <div
+      style="
+        margin: 0;
+        text-align: center;
+        padding: 30px;
+        background-color: antiquewhite;
+      "
+    >
+      <img alt="我" src="me.jpg" height="60px" width="60px" />
+    </div>
+    <div
+      style="
+        height: 500px;
+        margin: 20px;
+        text-align: center;
+        background-color: rgb(181, 161, 114);
+      "
+    >
+      <strong>这是一个很简单的个人网页</strong>
+      <p>我这个人没有什么太多的兴趣爱好</p>
+      <p>
+        我能够学习制作网页要非常的感谢<a href="https://www.bilibili.com/">b站</a
+        >的up主
+      </p>
+      <p>将我带入到这个神奇的世界</p>
+    </div>
+    <div
+      style="
+        padding: 20px;
+        background-color: blanchedalmond;
+        text-align: center;
+      "
+    >
+      <p>也没什么写的</p>
+      <h1>就到这吧</h1>
+    </div>
+  </body>
+</html>
+
